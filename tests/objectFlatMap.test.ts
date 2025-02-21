@@ -26,5 +26,5 @@ const expected = {
 
 Deno.test('should return a correct flat object tree (leafs only)', () => {
 	const result = objectFlatMap(testObject);
-	expect(result).toMatchObject(expected);
+	expect(result).toStrictEqual(expected);
 });
