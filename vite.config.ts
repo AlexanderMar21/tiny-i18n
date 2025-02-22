@@ -9,8 +9,6 @@ function getModuleDir(importMeta: ImportMeta): string {
 
 const dir = getModuleDir(import.meta);
 
-console.log(dir);
-
 // https://vite.dev/config/
 export default defineConfig({
 	plugins: [deno(), vue()],

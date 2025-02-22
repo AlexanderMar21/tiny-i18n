@@ -9,6 +9,7 @@
     "jsr:@std/path@^1.0.8": "1.0.8",
     "npm:@deno/vite-plugin@1": "1.0.4_vite@6.1.1",
     "npm:@vitejs/plugin-vue@^5.2.1": "5.2.1_vite@6.1.1_vue@3.5.13",
+    "npm:nuxi@latest": "3.22.2",
     "npm:vite@*": "6.1.1",
     "npm:vite@^6.0.1": "6.1.1",
     "npm:vue@^3.5.13": "3.5.13"
@@ -326,6 +327,9 @@
     },
     "nanoid@3.3.8": {
       "integrity": "sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w=="
+    },
+    "nuxi@3.22.2": {
+      "integrity": "sha512-QaxSecieGbh6aTrKC6czb73Lgb/OyV4Y+nXmrS1oAD/e2o2vWQ20uv9fSCBuHjwnAMADLdbKuhAK9EmJpLi0Ag=="
     },
     "picocolors@1.1.1": {
       "integrity": "sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA=="
